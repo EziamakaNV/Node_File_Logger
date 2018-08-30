@@ -1,0 +1,6 @@
+Tue Aug 28 2018 08:36:08 GMT+0100 (WAT)-[object Object]
+Tue Aug 28 2018 08:41:03 GMT+0100 (WAT)-[object Object]
+Tue Aug 28 2018 09:10:08 GMT+0100 (WAT)-undefined
+Tue Aug 28 2018 09:20:54 GMT+0100 (WAT)-undefined
+Tue Aug 28 2018 09:34:01 GMT+0100 (WAT)-John
+Tue Aug 28 2018 09:44:03 GMT+0100 (WAT)-{"first":"John","last":"Doe"}
